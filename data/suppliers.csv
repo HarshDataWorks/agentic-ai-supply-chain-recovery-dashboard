@@ -1,0 +1,21 @@
+supplier_id,supplier_name,country,approved_status,reliability_score,standard_lead_time_days
+SUP-001,Suntech Circuits Pvt Ltd,India,Yes,89.3,5
+SUP-002,Meridian Electronics Manufacturing,India,Yes,92.0,10
+SUP-003,Zenith Precision Components,India,Yes,78.0,7
+SUP-004,Ashoka Forgings & Castings,China,Yes,90.3,7
+SUP-005,Bluewave Hydraulics,Vietnam,Yes,87.9,5
+SUP-006,Crestline Bearings Co.,India,Yes,72.8,10
+SUP-007,Nova Polymer Industries,Germany,Yes,78.3,5
+SUP-008,Falcon Metal Works,India,Yes,87.2,18
+SUP-009,Horizon Sensors Ltd,Taiwan,Yes,78.0,12
+SUP-010,Vertex Fasteners & Fittings,India,Yes,93.9,5
+SUP-011,Glacier Wire & Cable,South Korea,Yes,92.5,8
+SUP-012,Redstone Gearbox Manufacturing,India,Yes,90.8,14
+SUP-013,Summit Rubber & Seals,Malaysia,Yes,79.5,10
+SUP-014,Indus Sheet Metal Co.,India,Yes,97.8,14
+SUP-015,Titan Motor Windings,Thailand,Yes,74.8,18
+SUP-016,Everest Electronics Assembly,India,Yes,74.6,14
+SUP-017,Coral Bay Castings,India,Yes,88.3,5
+SUP-018,Northpoint PCB Solutions,China,Yes,91.7,7
+SUP-019,Sapphire Precision Tooling,India,Yes,98.3,18
+SUP-020,Amber Industrial Supplies,Sri Lanka,Yes,74.1,12

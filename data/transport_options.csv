@@ -1,0 +1,11 @@
+transport_option_id,mode,lane,cost,eta_days,capacity_units
+TRN-001,Standard,Domestic Road,50000,8,1000
+TRN-002,Expedited,Domestic Road,110000,3,600
+TRN-003,Standard,Domestic Rail,35000,10,2000
+TRN-004,Expedited,Domestic Air,150000,1,300
+TRN-005,Standard,Sea Freight - Asia,90000,21,5000
+TRN-006,Expedited,Air Freight - Asia,220000,5,800
+TRN-007,Standard,Sea Freight - Europe,130000,28,4000
+TRN-008,Expedited,Air Freight - Europe,310000,6,700
+TRN-009,Standard,Regional Road,20000,4,1500
+TRN-010,Expedited,Regional Road,45000,1,900

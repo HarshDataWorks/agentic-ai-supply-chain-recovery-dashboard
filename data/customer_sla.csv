@@ -1,0 +1,51 @@
+customer_id,customer_name,sla_tier,contractual_priority_rank,penalty_per_day_late
+CUST-001,Orion Industrial Solutions,Platinum,1,75000
+CUST-002,Blue Ridge Manufacturing,Gold,4,31980.12
+CUST-003,Falcon Engineering Works,Standard,12,9000
+CUST-004,Sterling Process Equipment,Gold,6,19629.45
+CUST-005,Deccan Heavy Industries,Platinum,2,74109.42
+CUST-006,Coastal Utilities Ltd,Standard,9,8962
+CUST-007,Prime Foundry Group,Standard,11,10207.35
+CUST-008,Northgate Water Systems,Standard,11,11491.99
+CUST-009,Vantage Oil & Gas Services,Standard,9,7194.5
+CUST-010,Redwood Paper Mills,Gold,4,30406.73
+CUST-011,Anchor Steel Corp,Platinum,2,44196.97
+CUST-012,Palmetto Chemicals,Standard,9,4334.91
+CUST-013,Ironclad Mining Co.,Standard,11,5689.57
+CUST-014,BrightPath Textiles,Standard,12,7951.09
+CUST-015,Continental Cement,Gold,7,17795.86
+CUST-016,Skyline Agro Processing,Gold,5,22444.79
+CUST-017,Harborview Shipyards,Standard,13,3674.88
+CUST-018,Meadowlands Dairy Co-op,Platinum,1,55520.1
+CUST-019,Tri-State Utilities,Standard,9,11317.19
+CUST-020,Cascade Bottling Group,Platinum,2,41031.88
+CUST-021,Apex Processing Co. #1,Standard,11,3311.84
+CUST-022,Keystone Industries #2,Standard,10,10945.01
+CUST-023,Delta Industries #3,Standard,9,4795.12
+CUST-024,Apex Works #4,Gold,5,25873.13
+CUST-025,Apex Works #5,Standard,12,11214.09
+CUST-026,Delta Processing Co. #6,Standard,12,8374.05
+CUST-027,Union Manufacturing #7,Gold,6,24433.69
+CUST-028,Delta Industries #8,Standard,10,5398.74
+CUST-029,Delta Industries #9,Standard,15,10618.55
+CUST-030,Vanguard Processing Co. #10,Gold,6,18474.24
+CUST-031,Frontier Industries #11,Standard,13,11528.03
+CUST-032,Pioneer Industries #12,Platinum,3,73192.9
+CUST-033,Frontier Manufacturing #13,Standard,11,3505.51
+CUST-034,Delta Processing Co. #14,Gold,5,15013.67
+CUST-035,Keystone Processing Co. #15,Platinum,1,65092.82
+CUST-036,Apex Processing Co. #16,Standard,9,4274.87
+CUST-037,Apex Works #17,Platinum,1,52771.14
+CUST-038,Vanguard Enterprises #18,Standard,13,4228.07
+CUST-039,Pioneer Manufacturing #19,Standard,15,5855.55
+CUST-040,Vanguard Enterprises #20,Platinum,3,71136.01
+CUST-041,Union Processing Co. #21,Gold,8,21136.46
+CUST-042,Union Processing Co. #22,Standard,14,8155.51
+CUST-043,Apex Enterprises #23,Standard,10,11707.79
+CUST-044,Apex Industries #24,Gold,8,17812.87
+CUST-045,Delta Manufacturing #25,Gold,6,32706.41
+CUST-046,Delta Industries #26,Gold,6,19193.69
+CUST-047,Delta Works #27,Standard,15,6473.43
+CUST-048,Pioneer Works #28,Standard,10,6408.41
+CUST-049,Union Industries #29,Standard,9,8202.5
+CUST-050,Delta Enterprises #30,Standard,10,3300.72

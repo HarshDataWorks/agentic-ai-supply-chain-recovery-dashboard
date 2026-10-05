@@ -1,0 +1,46 @@
+product_id,product_name,product_type,unit_cost,unit_price
+CMP-001,Precision Ball Bearing 6205,Component,3757.91,
+CMP-002,Precision Ball Bearing 6305,Component,2840.56,
+CMP-003,Mechanical Seal Kit,Component,3898.43,
+CMP-004,Impeller Assembly,Component,2661.48,
+CMP-005,Motor Stator Core,Component,3214.89,
+CMP-006,Motor Rotor Assembly,Component,349.34,
+CMP-007,Control PCB Board Rev A,Component,1141.36,
+CMP-008,Control PCB Board Rev B,Component,1408.84,
+CMP-009,Proximity Sensor,Component,497.1,
+CMP-010,Pressure Transducer,Component,1162.64,
+CMP-011,Hydraulic Valve Block,Component,589.36,
+CMP-012,Hydraulic Cylinder Rod,Component,1359.19,
+CMP-013,Rubber Gasket Set,Component,2915.23,
+CMP-014,Wiring Harness Standard,Component,1737.02,
+CMP-015,Wiring Harness Heavy Duty,Component,1760.29,
+CMP-016,Aluminum Housing Casting,Component,1061.36,
+CMP-017,Cast Iron Housing,Component,1311.35,
+CMP-018,Drive Belt V-Type,Component,4224.45,
+CMP-019,Drive Chain Roller,Component,2968.95,
+CMP-020,Cooling Fan Blade,Component,2799.72,
+CMP-021,Thermal Overload Relay,Component,894.45,
+CMP-022,Circuit Breaker 32A,Component,3321.7,
+CMP-023,Terminal Block Assembly,Component,860.8,
+CMP-024,Capacitor Bank Unit,Component,1800.63,
+CMP-025,Variable Frequency Drive Module,Component,4454.43,
+CMP-026,Gear Set Helical,Component,2934.0,
+CMP-027,Bushing Bronze Sleeve,Component,2572.73,
+CMP-028,Shaft Coupling,Component,3128.07,
+CMP-029,Anti-Vibration Mount,Component,3816.41,
+CMP-030,Cable Gland Kit,Component,3525.6,
+FG-001,Model X200 Centrifugal Pump,Finished Good,39050.05,53156.3
+FG-002,Model X350 Submersible Pump,Finished Good,48122.57,69475.0
+FG-003,Model M100 Induction Motor,Finished Good,37153.2,62418.06
+FG-004,Model M250 Servo Motor,Finished Good,107018.6,156261.85
+FG-005,Model C500 Air Compressor,Finished Good,83821.06,124765.23
+FG-006,Model C750 Screw Compressor,Finished Good,111027.5,167717.94
+FG-007,Model CV20 Conveyor Unit,Finished Good,42812.42,61492.32
+FG-008,Model CV45 Belt Conveyor,Finished Good,73943.65,106623.75
+FG-009,Model CP10 Control Panel,Finished Good,76381.53,127117.05
+FG-010,Model CP25 PLC Control Cabinet,Finished Good,56937.05,81235.63
+FG-011,Model HY60 Hydraulic Power Pack,Finished Good,119741.45,183004.95
+FG-012,Model HY90 Hydraulic Cylinder Assembly,Finished Good,24545.49,33541.18
+FG-013,Model VF15 Variable Frequency Drive,Finished Good,26513.16,41615.22
+FG-014,Model GB40 Gearbox Unit,Finished Good,98168.33,147032.2
+FG-015,Model FN30 Industrial Fan Unit,Finished Good,21670.41,32149.5
